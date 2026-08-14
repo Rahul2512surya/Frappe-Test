@@ -18,7 +18,8 @@ const supportedComponents = [
 const componentsToCreateStoriesFor = newlyAddedComponents.filter(
   component => supportedComponents.includes(component.name)
 );
-test the code test code
+test the code test code test
+test the code test code test
 
 if (componentsToCreateStoriesFor.length > 0) {
   // Create story only for newly added component
