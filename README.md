@@ -22,6 +22,7 @@ test the code test code test
 test the code test code test
 test the code test code test
 test the code test code test
+test the code test code test
 
 if (componentsToCreateStoriesFor.length > 0) {
   // Create story only for newly added component
